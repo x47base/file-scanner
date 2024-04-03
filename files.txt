@@ -1,0 +1,5 @@
+a;C:\Users\KSH\Desktop\Projects\FilesScanner\a;0
+b;C:\Users\KSH\Desktop\Projects\FilesScanner\b;0
+files.txt;C:\Users\KSH\Desktop\Projects\FilesScanner\files.txt;47
+main.py;C:\Users\KSH\Desktop\Projects\FilesScanner\main.py;2063
+test.txt;C:\Users\KSH\Desktop\Projects\FilesScanner\a\test.txt;4
